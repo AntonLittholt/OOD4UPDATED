@@ -1,0 +1,56 @@
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:45)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:46)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:47)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:48)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:49)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:59)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
+26 May 2023, 14:23:49, Exception was thrown: / by zero
+java.lang.ArithmeticException: / by zero
+	at se.kth.iv1350.retailStore.controller.Controller.enterItem(Controller.java:35)
+	at se.kth.iv1350.retailStore.view.View.enterItemToSale(View.java:68)
+	at se.kth.iv1350.retailStore.view.View.runFakeExecution(View.java:60)
+	at se.kth.iv1350.retailStore.startup.Main.main(Main.java:32)
+
+
