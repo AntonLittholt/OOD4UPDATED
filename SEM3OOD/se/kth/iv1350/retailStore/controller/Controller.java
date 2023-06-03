@@ -30,10 +30,6 @@ public class Controller {
 
     public Sale enterItem(int itemID, int quantity) throws ItemNotFoundException, DataBaseFailureException{
 
-        int x = 0;
-        int y = 2;
-        int z = y/x;
- 
         return sale.addItem(itemID, quantity);  
     }
 
